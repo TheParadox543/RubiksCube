@@ -1,0 +1,3 @@
+1. Created a game window with grey background.
+2. Create colors class to store values for different colors.
+3. Try creating square of different colors.
